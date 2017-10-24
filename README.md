@@ -2,8 +2,8 @@
 Code Organization
 1. Directory App
 	Contains all critical PHP files to perform 
-		1. login/logout
-		2. upload to S3 bucket, 
+		1. login/logout <br>
+		2. upload to S3 bucket, <br> 
 		3. view objects on main S3 bucket and replication bucket, 
 		4. update objects in S3,
 		5. delete objects in S3,
