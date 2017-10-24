@@ -5,7 +5,16 @@ Student: Swetha Chandrasekar <br>
 public URL : http://swethacmpe281project.com/cmpe/app/login.php <br>
 linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 
-Code Organization <br><br>
+
+<br> <b> How to deploy locally ? </b> <br>
+
+1. sudo apt-get install apache2 <br>
+2. sudo apt-get install libphp5 <br>
+3. sudo service apache2 start <br>
+4. cd /var/www/html <br>
+5. tar -zxvf <gzip file> 
+
+<b>Code Organization </b><br><br>
 1. Directory App
 	Contains all critical PHP files to perform <br>
 		1. login/logout <br>
