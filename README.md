@@ -1,6 +1,6 @@
 # CMPE281Project
 Professor: Mr. Sanjay Garge <br>
-Instructor Assistant: Divyankitha Urs <br>
+Instructor Assistant: Divyankitha Mahesh Urs <br>
 Student: Swetha Chandrasekar <br>
 public URL : http://swethacmpe281project.com/cmpe/app/login.php <br>
 linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
