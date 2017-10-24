@@ -1,9 +1,9 @@
 # CMPE281Project
-Professor: Mr. Sanjay Garge
-IA: Divyankitha Urs
-Student: Swetha Chandrasekar
-public URL : http://swethacmpe281project.com/cmpe/app/login.php
-linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129
+Professor: Mr. Sanjay Garge <br>
+Instructor Assistnat: Divyankitha Urs <br>
+Student: Swetha Chandrasekar <br>
+public URL : http://swethacmpe281project.com/cmpe/app/login.php <br>
+linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 
 Code Organization <br><br>
 1. Directory App
