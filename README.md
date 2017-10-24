@@ -14,7 +14,6 @@ linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 4. cd /var/www/html <br>
 5. tar -zxvf Swetha_CMPE281_Project.tar.gz	
 
-
 <b>Code Organization </b><br><br>
 1. Directory App
 	Contains all critical PHP files to perform <br>
