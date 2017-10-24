@@ -1,5 +1,5 @@
 # CMPE281Project
-Code Organization
+Code Organization <br><br>
 #1. Directory App
 	Contains all critical PHP files to perform <br>
 		1. login/logout <br>
