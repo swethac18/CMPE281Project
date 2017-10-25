@@ -24,6 +24,7 @@ On a ubuntu machine, <br>
 3. Have write access to /var/www/html/
 
 ![AltText](https://github.com/swethac18/CMPE281Project/blob/master/listing%20objects.png, "listing objects on main S3 bucket")
+
 <b>Code Organization </b><br><br>
 1. Directory App
 	Contains all critical PHP files to perform <br>
