@@ -28,7 +28,9 @@ On a ubuntu machine, <br>
 	<b> <br> Uploading object to S3 <b></b>
 <img src="upload%20page.png"> <br>
 <b>Code Organization </b><br><br>
-1. Directory App
+		
+
+<b>1. Directory App </b>
 	Contains all critical PHP files to perform <br>
 		1. login/logout <br>
 		2. upload to S3 bucket, <br> 
@@ -37,7 +39,7 @@ On a ubuntu machine, <br>
 		5. delete objects in S3,
 		6. Create a short-lived presigned URL to share
 		7. Connecting to RDS database to fetch activity log, s3 object description
-2. Directory vendor<br>
+<b>2. Directory vendor<br></b>
 		1. Contains php aws sdk <br>
-3. Composer.json <br>
+<b> 3. Composer.json <br> </b>
 		1. Responsibile for downloading needed libraries <br>
