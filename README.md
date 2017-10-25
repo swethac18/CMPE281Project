@@ -9,10 +9,13 @@ linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 <br> <b> How to deploy locally ? </b> <br>
 
 1. sudo apt-get install apache2 <br>
-2. sudo apt-get install libphp5 <br>
+2. sudo apt-get install php5 <br>
 3. sudo service apache2 start <br>
 4. cd /var/www/html <br>
-5. tar -zxvf Swetha_CMPE281_Project.tar.gz	
+5. (Search for the file Swetha_CMPE281_Project.tar.gz in the repository)
+6. (unzip it) tar -zxvf Swetha_CMPE281_Project.tar.gz	
+
+Hit http://localhost/cmpe/app/login.php
 
 <b>Code Organization </b><br><br>
 1. Directory App
