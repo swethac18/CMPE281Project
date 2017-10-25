@@ -6,8 +6,9 @@ public URL : http://swethacmpe281project.com/cmpe/app/login.php <br>
 linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 
 
-<br> <b> How to deploy locally ? </b> <br>
-
+<u><br> <b> How to deploy locally ? </b> <br></u>
+<u>apache2 server and php5 are the pre-requisites.</u>
+On a ubuntu machine, <br>
 1. sudo apt-get install apache2 <br>
 2. sudo apt-get install php5 <br>
 3. sudo service apache2 start <br>
@@ -17,7 +18,7 @@ linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 7. Files will be copied to /var/www/html/cmpe/app
 8. Hit http://localhost/cmpe/app/login.php on browser.
 
-<b>Issues you might face:</b>
+<u><b>Issues you might face:</b></u>
 1. If you face any issues with permission, please provide read & execute option for /var/www/html/cmpe/app directory and write permissions for /var/www/html/cmpe/app/files directory.
 2. The tar.gz file is self contained. If you face issues with dependent aws-sdk php library, please install composer for php and reinstall dependent AWS SDK.
 3. Have write access to /var/www/html/
