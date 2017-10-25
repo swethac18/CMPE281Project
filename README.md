@@ -30,7 +30,7 @@ On a ubuntu machine, <br>
 <b>Code Organization </b><br><br>
 		
 
-<b>--> Directory App </b>
+<b>--> Directory App </b> <br>
 	Contains all critical PHP files to perform <br>
 		1. login/logout <br>
 		2. upload to S3 bucket, <br> 
@@ -39,7 +39,7 @@ On a ubuntu machine, <br>
 		5. delete objects in S3,
 		6. Create a short-lived presigned URL to share
 		7. Connecting to RDS database to fetch activity log, s3 object description
-<b>--> Directory vendor<br></b>
+<b>--> Directory vendor<br></b> <br>
 		1. Contains php aws sdk <br>
 <b>--> Composer.json <br> </b>
 		1. Responsibile for downloading needed libraries <br>
