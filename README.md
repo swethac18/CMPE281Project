@@ -22,8 +22,11 @@ On a ubuntu machine, <br>
 1. If you face any issues with permission, please provide read & execute option for /var/www/html/cmpe/app directory and write permissions for /var/www/html/cmpe/app/files directory.
 2. The tar.gz file is self contained. If you face issues with dependent aws-sdk php library, please install composer for php and reinstall dependent AWS SDK.
 3. Have write access to /var/www/html/
-<b><br>Listing objects on S3</b>
-<img src="listing%20objects.png">
+<br><br><br> <B><U>SCREENSHOTS </B></U><BR>
+<b><br>Listing objects on S3</b> <br>
+<img src="listing%20objects.png"> <br>
+	<b> <br> Uploading object to S3 <b></b>
+<img src="upload%20page.png"> <br>
 <b>Code Organization </b><br><br>
 1. Directory App
 	Contains all critical PHP files to perform <br>
