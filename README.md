@@ -23,7 +23,7 @@ On a ubuntu machine, <br>
 2. The tar.gz file is self contained. If you face issues with dependent aws-sdk php library, please install composer for php and reinstall dependent AWS SDK.
 3. Have write access to /var/www/html/
 
-!(https://github.com/swethac18/CMPE281Project/blob/master/listing%20objects.png, "listing objects on main S3 bucket")
+![Alt text] (https://github.com/swethac18/CMPE281Project/blob/master/listing%20objects.png "listing objects on main S3 bucket")
 
 <b>Code Organization </b><br><br>
 1. Directory App
