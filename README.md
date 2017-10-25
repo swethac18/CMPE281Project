@@ -14,8 +14,13 @@ linkedin URL : https://www.linkedin.com/in/swetha-chandrasekar-76aa18129 <br>
 4. cd /var/www/html <br>
 5. (Search for the file Swetha_CMPE281_Project.tar.gz in the repository)
 6. (unzip it) tar -zxvf Swetha_CMPE281_Project.tar.gz	
+7. Files will be copied to /var/www/html/cmpe/app
+8. Hit http://localhost/cmpe/app/login.php on browser.
 
-Hit http://localhost/cmpe/app/login.php
+<b>Issues you might face:</b>
+1. If you face any issues with permission, please provide read & execute option for /var/www/html/cmpe/app directory and write permissions for /var/www/html/cmpe/app/files directory.
+2. The tar.gz file is self contained. If you face issues with dependent aws-sdk php library, please install composer for php and reinstall dependent AWS SDK.
+3. Have write access to /var/www/html/
 
 <b>Code Organization </b><br><br>
 1. Directory App
